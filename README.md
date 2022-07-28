@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ilkeun-Chung
-- 👀 I’m interested in Oracle Database
+- 👀 I’m interested in Oracle Exadata and Database
 - 🌱 I’m currently learning Git/Rest API
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
